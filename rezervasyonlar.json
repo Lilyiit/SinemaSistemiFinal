@@ -1,0 +1,15 @@
+{
+  "musteri": {"isim": "umit ", "telefonNo": "05379458501"},
+  "film": {"ad": "The Godfather", "sure": 175, "tur": "Suç/Dram"},
+  "salon": "Büyük Salon"
+}
+{
+  "musteri": {"isim": "yigit", "telefonNo": "05415859053"},
+  "film": {"ad": "The Shawshank Redemption", "sure": 142, "tur": "Dram"},
+  "salon": "Büyük Salon"
+}
+{
+  "musteri": {"isim": "yunus", "telefonNo": "567841234"},
+  "film": {"ad": "Pulp Fiction", "sure": 154, "tur": "Suç/Dram"},
+  "salon": "Küçük Salon"
+}

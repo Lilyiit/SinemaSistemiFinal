@@ -1,0 +1,12 @@
+{ "salonlar": [
+  {
+    "id": "1",
+    "name": "Büyük Salon",
+    "filmler": [{"ad": "The Shawshank Redemption", "sure": 142, "tur": "Dram"}, {"ad": "The Godfather", "sure": 175, "tur": "Suç/Dram"}]
+  },
+  {
+    "id": "2",
+    "name": "Küçük Salon",
+    "filmler": [{"ad": "Inception", "sure": 148, "tur": "Bilim Kurgu/Aksiyon"}, {"ad": "Pulp Fiction", "sure": 154, "tur": "Suç/Dram"}]
+  }
+]}
